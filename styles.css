@@ -29,3 +29,6 @@ body {
   .county:hover {
     fill: rgb(8, 40, 61);
   }
+  a{
+    color: rgb(41, 233, 121);
+  }
